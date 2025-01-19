@@ -31,7 +31,7 @@ pip install -r requirements.txt
 streamlit run heygen.py
 
 ## Usage
-
+0. Update your Avatar and Voice ID in the 'heygen.py' file
 1. Upload your CV (PDF format)
    - The CV should be clearly formatted
    - Text should be selectable (not scanned images)
