@@ -78,13 +78,13 @@ Also, keep in mind not to make it rhyme too much; it shouldnt sound like a song.
                 {
                     "character": {
                         "type": "avatar",
-                        "avatar_id": "b228b0b0ea2c4e24bf441d36c1bcf13b",
+                        "avatar_id": "your-avatar-id",
                         "avatar_style": "normal",
                     },
                     "voice": {
                         "type": "text",
                         "input_text": script,
-                        "voice_id": "c39e1977d89d448d98b43242e53e6e00",
+                        "voice_id": "your-voice-id",
                     },
                     "background": {
                         "type": "color",
