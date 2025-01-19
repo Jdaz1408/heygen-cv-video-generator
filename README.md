@@ -19,7 +19,7 @@ A Streamlit application that generates personalized video presentations using CV
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/heygen-video-generator.git
+git clone https://github.com/Jdaz1408/heygen-cv-video-generator.git
 cd heygen-video-generato
 
 2. Install the required packages:
